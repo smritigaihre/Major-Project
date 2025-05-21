@@ -56,7 +56,7 @@ const Login = () => {
               {isValid ? 'bg-[#6e0000] hover:bg-[#990000]' : 'bg-[#6e0000] cursor-not-allowed'}
               text-white font-bold py-3 rounded w-full transition duration-200 tracking-wide`}
           >
-            Login / Signup
+            Login 
           </button>
         </form>
 

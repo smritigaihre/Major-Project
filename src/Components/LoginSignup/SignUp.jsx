@@ -136,6 +136,10 @@ const Signup = () => {
           Create Account
         </button>
       </form>
+      <p className="text-sm text-center mt-2 text-gray-400">
+          If you already have an account?{' '}
+          <Link to="/signup" className="text-[#990000] hover:underline">Login</Link>
+        </p>
     </div>
   );
 };
